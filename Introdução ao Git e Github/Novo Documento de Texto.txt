@@ -1,0 +1,7 @@
+COMANDO BÁSICOS PARA FAZER UM COMMIT NO GITHUB
+
+git init (para iniciar o git na pasta e transformar em um repositório local) (criar a pasta .git) (iniciar o versionamento)
+git add * (adicionar as mudanças feitas para o repositório local) (staged)
+git commit -m "algum comentário" (commitar o código e preparar ele para enviar para o repositório remoto)
+git push origin main (para empurrar o código para o repositório remoto) (branch main)
+git pull (para puxar o código caso conteça algum conflito de versionamento)
